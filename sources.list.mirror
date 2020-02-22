@@ -1,0 +1,47 @@
+# 
+# = aliyun
+# ubuntu 14.04 LTS/amd64 
+# ubuntu/trusty64
+# 
+# deb http://mirrors.aliyun.com/ubuntu/ trusty main restricted universe multiverse
+# deb http://mirrors.aliyun.com/ubuntu/ trusty-security main restricted universe multiverse
+# deb http://mirrors.aliyun.com/ubuntu/ trusty-updates main restricted universe multiverse
+# deb http://mirrors.aliyun.com/ubuntu/ trusty-proposed main restricted universe multiverse
+# deb http://mirrors.aliyun.com/ubuntu/ trusty-backports main restricted universe multiverse
+# deb-src http://mirrors.aliyun.com/ubuntu/ trusty main restricted universe multiverse
+# deb-src http://mirrors.aliyun.com/ubuntu/ trusty-security main restricted universe multiverse
+# deb-src http://mirrors.aliyun.com/ubuntu/ trusty-updates main restricted universe multiverse
+# deb-src http://mirrors.aliyun.com/ubuntu/ trusty-proposed main restricted universe multiverse
+# deb-src http://mirrors.aliyun.com/ubuntu/ trusty-backports main restricted universe multiverse
+
+
+# 
+# = tuna
+# ubuntu 16.04 LTS/amd64
+# ubuntu/xenial64
+# 
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-security main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-updates main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-proposed main restricted universe multiverse
+deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-backports main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-security main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-updates main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-proposed main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial-backports main restricted universe multiverse
+
+
+# 
+# = tuna
+# ubuntu 18.04 LTS/amd64
+# ubuntu/bionic
+# 
+# deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+# deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+# deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+# deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse
+# deb-src https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-security main restricted universe multiverse
